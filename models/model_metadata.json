@@ -1,0 +1,34 @@
+{
+  "trained_at": "2026-03-30T14:09:28.618530",
+  "n_features": 30,
+  "n_train_samples": 160000,
+  "n_test_samples": 40000,
+  "auc_roc": 0.8583,
+  "best_iteration": 112,
+  "scale_pos_weight": 18.51,
+  "xgboost_version": "3.2.0",
+  "precision_at_k": [
+    {
+      "metric": "Precision@1%",
+      "value": 0.2525,
+      "lift": 4.9
+    },
+    {
+      "metric": "Precision@5%",
+      "value": 0.235,
+      "lift": 4.6
+    },
+    {
+      "metric": "Precision@10%",
+      "value": 0.2202,
+      "lift": 4.3
+    },
+    {
+      "metric": "Precision@20%",
+      "value": 0.1775,
+      "lift": 3.5
+    }
+  ],
+  "training_time_seconds": 1.8,
+  "shap_time_1000_samples": 0.16
+}
