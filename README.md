@@ -9,6 +9,8 @@ Built as a production-grade ML API demonstrating:
 - FastAPI service with single-user and batch scoring endpoints
 - 30 domain-realistic UPI features across 8 categories
 
+**Live demo:** [upi-propensity-model.onrender.com/docs](https://upi-propensity-model.onrender.com/docs)
+
 ---
 
 ## The Problem
